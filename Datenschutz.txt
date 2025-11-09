@@ -1,0 +1,124 @@
+Datenschutzerklärung – Taskflow
+
+Stand: {{aktuelles Datum einsetzen}}
+
+Wir freuen uns, dass Sie Taskflow nutzen. Der Schutz Ihrer personenbezogenen Daten ist uns sehr wichtig. In dieser Datenschutzerklärung informieren wir Sie darüber, welche Daten wir erheben, wie wir sie nutzen und welche Rechte Sie haben.
+
+1. Verantwortlicher
+
+Verantwortlich für die Datenverarbeitung in dieser App ist:
+
+Software-Hero
+
+2. Allgemeines zur Datenerhebung
+
+Taskflow ist ein moderner Time-Tracker, mit dem Sie Ihre Aufgaben und Arbeitszeiten organisieren und verfolgen können.
+Die App verarbeitet nur die Daten, die für die Nutzung notwendig sind.
+Wir verkaufen Ihre Daten nicht und geben sie nur weiter, wenn es gesetzlich erforderlich ist.
+
+3. Welche Daten werden erhoben?
+3.1. App-interne Daten
+
+Diese Daten werden nur lokal auf dem Gerät gespeichert und nicht an uns übertragen, sofern unten nicht anders angegeben:
+
+Aufgaben, Projekte und Kategorien
+
+Zeitaufzeichnungen (Start, Stop, Dauer)
+
+Einstellungen und Präferenzen innerhalb der App
+
+3.2. Automatisch erhobene technische Daten
+
+Bei der Nutzung der App können, abhängig vom Betriebssystem, bestimmte technische Informationen durch den Google Play Store oder das Gerät selbst erhoben werden:
+
+Gerätetyp
+
+Betriebssystemversion
+
+App-Version
+
+Absturzberichte (Crash Logs)
+
+Diagnoseinformationen
+
+Diese Daten werden ggf. durch Google oder andere Systemdienste verarbeitet.
+Wir haben selbst keinen direkten Zugriff auf personenbezogene technische Gerätedaten.
+
+4. Analysedaten (optional – wenn du Analytics nutzt)
+
+Falls du kein Tracking verwendest, schreibe stattdessen:
+
+Taskflow verwendet keine Analyse- oder Tracking-Tools. Es findet keinerlei Auswertung Ihres Nutzerverhaltens statt.
+
+Falls du z. B. Firebase Analytics nutzt, schreibe:
+
+Taskflow nutzt Firebase Analytics, einen Analysedienst von Google. Dabei können pseudonymisierte Nutzungsdaten entstehen (z. B. Interaktionen in der App). Diese Daten dienen ausschließlich zur Verbesserung der App.
+Persönliche Informationen wie Aufgabeninhalte oder Zeitdaten werden nicht erhoben.
+
+(Anpassen je nach tatsächlicher Nutzung)
+
+5. Warum werden die Daten verarbeitet?
+
+Wir verarbeiten Daten ausschließlich zu folgenden Zwecken:
+
+Bereitstellung der Grundfunktionen der App
+
+Verbesserung der App-Stabilität (durch Fehlerberichte)
+
+Speicherung Ihrer Aufgaben- und Zeitdaten
+
+6. Weitergabe von Daten
+
+Ihre lokal gespeicherten Daten werden nicht an Dritte weitergegeben.
+
+Eine Datenweitergabe kann nur erfolgen, wenn:
+
+Sie ausdrücklich zustimmen
+
+es gesetzlich vorgeschrieben ist
+
+technische Analysedienste genutzt werden (siehe Abschnitt 4)
+
+7. Speicherung und Löschung
+
+Alle von Ihnen in der App eingegebenen Daten (Aufgaben, Zeiten, Projekte) werden ausschließlich lokal auf Ihrem Gerät gespeichert.
+
+Sie können Ihre Daten jederzeit löschen:
+
+durch Löschen einzelner Einträge innerhalb der App
+
+durch Deinstallation der App (dadurch werden alle lokal gespeicherten Daten entfernt)
+
+8. Sicherheit
+
+Wir setzen technische Maßnahmen um, um die Sicherheit Ihrer lokal gespeicherten Daten zu gewährleisten.
+Bitte schützen Sie Ihr Gerät durch Passwort/PIN/biometrische Funktionen.
+
+9. Rechte der Nutzerinnen und Nutzer
+
+Sie haben nach geltendem Datenschutzrecht folgende Rechte:
+
+Recht auf Auskunft über gespeicherte Daten
+
+Recht auf Berichtigung fehlerhafter Daten
+
+Recht auf Löschung
+
+Recht auf Einschränkung der Verarbeitung
+
+Recht auf Widerspruch
+
+Recht auf Datenübertragbarkeit (wenn anwendbar)
+
+Für datenschutzbezogene Anfragen können Sie uns jederzeit über die oben genannte E-Mail kontaktieren.
+
+10. Änderungen dieser Datenschutzerklärung
+
+Wir behalten uns vor, diese Datenschutzerklärung anzupassen, um sie an neue rechtliche Anforderungen oder Funktionsänderungen der App anzupassen.
+Die jeweils aktuelle Version wird in der App bzw. im Play Store verfügbar gemacht.
+
+11. Kontakt
+
+Bei Fragen zum Datenschutz schreiben Sie uns bitte an:
+
+software.hero.de@gmail.com
